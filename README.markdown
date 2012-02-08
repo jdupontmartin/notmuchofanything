@@ -1,6 +1,7 @@
 ========================== ****************************** ===========
 
-This is a simple Readme file for experimental purposs, followed by the Rails Readme
+[This is a simple *Readme* file] for experimental purposes, followed by the Rails Readme
+[see:](http://railstutorial.org) for Michael Hartl's Rails Tutorial
 
 == Welcome to Rails
 
