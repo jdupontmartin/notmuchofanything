@@ -5,7 +5,9 @@ gem 'rails', '3.0.1'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
-gem 'sqlite3-ruby', :group => :development
+gem 'sqlite3-ruby', '1.2.5' , :group => :development
+
+# gem 'pg'
 
 # Use unicorn as the web server
 # gem 'unicorn'
